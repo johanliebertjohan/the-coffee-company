@@ -154,7 +154,7 @@ ul:has(li:hover) li:not(li:hover) {
       rgba(0, 0, 0, 0.01),
       var(--primary-color)
     ),
-    url(Kaffee.png);
+    url(kaffee.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
